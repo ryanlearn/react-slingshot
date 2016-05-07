@@ -21,7 +21,6 @@
   "author": "Cory House",
   "license": "MIT",
   "dependencies": {
-    "npm-run-all": "1.8.0",
     "object-assign": "4.1.0",
     "react": "15.0.2",
     "react-dom": "15.0.2",
