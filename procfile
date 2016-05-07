@@ -1,2 +1,2 @@
-heroku config:set NODE_ENV=staging
+heroku config:set NODE_ENV=development
 web: npm start
